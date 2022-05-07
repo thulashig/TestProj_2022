@@ -1,0 +1,3 @@
+E:\TestProj_2022\TestProj-main\TestProj\TestProj\obj\Debug\TestProj.njsproj.AssemblyReference.cache
+E:\TestProj_2022\TestProj-main\TestProj\TestProj\obj\Debug\TestProj.njsproj.CoreCompileInputs.cache
+E:\TestProj_2022\TestProj-main\TestProj\TestProj\bin\Microsoft.NodejsTools.WebRole.dll
