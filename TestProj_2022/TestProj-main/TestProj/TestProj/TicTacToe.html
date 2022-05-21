@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Lab 8 Tic-Tac-Toe</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css">
+</head>
+<body>
+    <div class="container">
+        <div class="table">
+            <div class="cell" id="0" onclick="move(0, 'player')"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="./TestProj/TestProj/engine.js"></script>
+    <!--If you want just add the script:-->
+    <script>
+        var t = new Array(9);
+
+        function ai() {
+            //add code here, if you want to do game with ai (optional!)
+        }
+
+        function checkEnd() {
+            // add code
+            return true;
+        }
+
+        function move(id, role) {
+            // add code
+        }
+
+        function reset() {
+            alert("Game over!");
+            location.reload();
+        }
+    </script>
+</body>
+</html>
